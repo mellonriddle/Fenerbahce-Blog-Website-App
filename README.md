@@ -1,4 +1,4 @@
-# Fenerbahce-Blog-Website-App
+# Fenerbahce-Sports-Club-Blog-Website-App
 
 You can check out live version of this project at : https://fener-blog.onrender.com
 
